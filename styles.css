@@ -1,0 +1,60 @@
+body {
+    color: #28128d;
+    font-family: Roboto, sans-serif;
+    background: linear-gradient(180deg, #e0e96b, #93acfc);
+}
+
+.head-section {
+    background: linear-gradient(180deg, #e0e96b, #93acfc);
+}
+
+.navbar-brand {
+    font-size: 30px;
+}
+
+.navbar-brand, .text-primary {
+    color: #000000 !important;
+}
+
+.nav-link {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.btn-primary {
+    background-color: #027e02 !important;
+    border: none;
+}
+
+.nav-link:hover {
+    color: #0a58ca;
+}
+
+p, .lead {
+    font-size: 18px !important;
+}
+
+.ionicons {
+    color: #0a58ca;
+    background-color: #f2f2f2;
+    padding: 10px;
+    height: 30px;
+    width: 30px;
+    margin-bottom: 12px;
+}
+
+.nav-tabs {
+    border: none;
+}
+
+.nav-tabs .active {
+    background-color: #0a58ca !important;
+    border: none;
+    color: #f2f2f2 !important;
+}
+
+.footer-section {
+    background-color: #e4f35c;
+    border: none;
+    color: #0a0a0a !important;
+}
